@@ -20,4 +20,8 @@ Aqui se muestra el codigo en la siguiente imagen.
 ![image](https://user-images.githubusercontent.com/54882313/119866687-ea1acf80-bed1-11eb-97e8-07368ae15127.png)
 
 
+Aqui se muestra el resultado al correr el programa.
+
+
+![image](https://user-images.githubusercontent.com/54882313/119866801-0b7bbb80-bed2-11eb-9c7b-6c5c77e92bfe.png)
 
