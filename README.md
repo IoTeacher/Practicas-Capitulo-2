@@ -10,3 +10,11 @@ Se muestra el codigo en la siguiente imagen.
 
 Aqui se muestra el resultado al correr el programa.
 
+![image](https://user-images.githubusercontent.com/54882313/119866355-94462780-bed1-11eb-8942-8afd3ab69d21.png)
+
+
+PRACTICA TIPOS4.C
+
+Aqui se muestra el codigo en la siguiente imagen.
+
+
