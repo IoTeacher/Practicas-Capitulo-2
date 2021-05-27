@@ -17,4 +17,7 @@ PRACTICA TIPOS4.C
 
 Aqui se muestra el codigo en la siguiente imagen.
 
+![image](https://user-images.githubusercontent.com/54882313/119866687-ea1acf80-bed1-11eb-97e8-07368ae15127.png)
+
+
 
